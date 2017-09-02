@@ -1,2 +1,7 @@
-# algorithms
-Computer Science Algorithms
+# Algorithms
+
+* Prim algorithm
+
+# Data Structures
+
+* Lista ligada
