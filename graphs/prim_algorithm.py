@@ -1,3 +1,5 @@
+# Prim algorithm. The Prim algorithm is used to find the minimal spanning tree for a weighted undirected graph.
+
 # Implementacao do algoritmo de Prim O(E log V) em Python
 # Note que a unica funcao que representa a implementacao do algoritmo eh a funcao prim(graph,Vi=0,edge=[],vis=[])
 # A funcao add_edge eh apenas auxiliar, e a funcao primDesconexo(graph) eh um adicional, e nao costuma sequer ser
